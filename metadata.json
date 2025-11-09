@@ -1,0 +1,5 @@
+{
+  "name": "SRT Subtitle Translator",
+  "description": "An application to translate SRT subtitle files into different languages using Gemini. Upload your .srt file, choose a target language, and get a perfectly formatted, translated subtitle file ready for download.",
+  "requestFramePermissions": []
+}
